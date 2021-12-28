@@ -1,2 +1,2 @@
 # sib
-Software investigation board for requirements and documentation
+Investigation board for software requirements and documentation
